@@ -18,6 +18,9 @@ body {
     background-image: url("../images/fondo-contacto.png");
     background-size: cover;
 }
+#stack-tecnologico{
+    background-color: #e20000;
+}
 .mi-foto{
     border-radius: 600px;
     height: 300px;
