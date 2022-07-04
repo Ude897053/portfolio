@@ -20,6 +20,14 @@ body {
 }
 #stack-tecnologico{
     background-color: #e20000;
+    margin: 30px;
+    padding: 20px;
+}
+#stack-tecnologico .tecnologia{
+    background-color: white;
+}
+#stack-tecnologico h3{
+    font-size: 20px;
 }
 .mi-foto{
     border-radius: 600px;
